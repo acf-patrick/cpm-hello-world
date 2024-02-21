@@ -1,4 +1,6 @@
-source: https://github.com/acf-patrick/hello-world.git
+name: cpm-hello-world
+tag: latest
+source: https://github.com/acf-patrick/cpm-hello-world.git
 
 build:
   - steps: gcc main.c -o hello_world
