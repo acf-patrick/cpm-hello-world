@@ -1,1 +1,1 @@
-Minimal project for CPM testing.
+Minimal project for [Craft](https://github.com/acf-patrick/craft) 🏗️ testing.
